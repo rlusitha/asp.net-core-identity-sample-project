@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IdentityByExamples
+build_property.ProjectDir = D:\Development\Introducing Identity ASP.NET Core\identity-aspnetcore\IdentityByExamples\IdentityByExamples\
